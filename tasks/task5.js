@@ -124,3 +124,9 @@ const allColor = [...ar1,...ar2]
 console.log(...ar1)
 console.log(ar1)
 console.log(allColor)
+
+
+/*888 
+проверка
+
+*/
